@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1>Witor Tenã</h1>
+<hr>
+<p>I'm a software engineer, always loved computer cience and I'm always inclined to test my skills with coding on my own
+projects</p>
