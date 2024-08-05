@@ -20,12 +20,21 @@ It's now not only a habit but also my mission, to code away all the ideas I have
 
 ## Some of my Projects:
 <ul>
-  <li><p align="left" width="45px" style="padding-right: 5px;"><a href="https://witordev.github.io/Projeto-Agrinho/">Project Agrinho</a></p></li>
-  <li><p align="left" width="45px" style="padding-right: 5px;"><a href="https://witordev.github.io/Curso---Rocketseat/">Project Rocketseat</a></p></li>
-  <li><p align="left" width="45px" style="padding-right: 5px;"><a href="https://witordev.github.io/Escolhas/">Project Escolhas</a></p></li>
+  <li>
+    <p align="left" width="45px" style="padding-right: 5px;"><a href="https://witordev.github.io/Projeto-Agrinho/">Project Agrinho</a></p>
+    <img width="225px" src="project-agrinho-scs.png" />
+  </li>
+
+  <li>
+    <p align="left" width="45px" style="padding-right: 5px;"><a href="https://witordev.github.io/Curso---              Rocketseat/">Project Rocketseat</a></p>
+    <img width="225px" src="project-rocketseat-scs.png" />
+  </li>
+
+  <li>
+    <p align="left" width="45px" style="padding-right: 5px;"><a href="https://witordev.github.io/Escolhas/">Project   Escolhas</a></p>
+    <img width="225px" src="project-escolhas-scs.png" />
+  </li>
 </ul>
-
-
 
 ## Get in touch
 <p align="left" width="45px" style="padding-right: 5px;">✉ Email: <a href="mailto:witortenadev@gmail.com">witortenadev@gmail.com</a></p>
