@@ -43,6 +43,10 @@ It's now not only a habit but also my mission, to code away all the ideas I have
 
 </div>
 
+<div align="center">
+
 ## Get in touch
-<p align="left" width="45px" style="padding-right: 5px;">✉ Email: <a href="mailto:witortenadev@gmail.com">witortenadev@gmail.com</a></p>
-<p align="left" width="45px" style="padding-right: 5px;">📞 Phone | Whatsapp: +55 43 98413-8592</p>
+<p width="45px" style="padding-right: 5px;">✉ Email: <a href="mailto:witortenadev@gmail.com">witortenadev@gmail.com</a></p>
+<p width="45px" style="padding-right: 5px;">📞 Phone | Whatsapp: +55 43 98413-8592</p>
+
+</div>
