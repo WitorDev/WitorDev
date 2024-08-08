@@ -4,8 +4,8 @@
 
 **`💻 Front-End Developer`**
 
-I'm a Brazilian Web Developer, got introduced to coding at a young age, when I got the oportunity to try Python for the first time, loved rendering my first "Hello World!" in the console and since then I can't stop learning.
-It's now not only a habit but also my mission, to code away all the ideas I have and to acquire as much knowledge I can from this always growing World Wide Web...
+I'm a Brazilian web developer, I was introduced to coding when I was young, when I had the opportunity to try Python for the first time, I loved rendering my first "Hello World!" in the console and since then I can't stop learning.
+Now it's not only a habit, but also my mission, to code every idea I have and gain as much knowledge as I can from this ever-growing World Wide Web...
 
 </div>
 
