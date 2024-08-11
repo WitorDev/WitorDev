@@ -33,10 +33,13 @@ Now it's not only a habit, but also my mission, to code every idea I have and ga
 <p align="center" width="45px" style="padding-right: 5px;"><a href="https://witordev.github.io/Projeto-Agrinho/">Project Agrinho</a></p>
 <a href="https://witordev.github.io/Projeto-Agrinho/"><img width="225px" src="project-agrinho-scs.png" /></a>
 
-<p align="center" width="45px" style="padding-right: 5px;"><a href="https://witordev.github.io/Curso---Rocketseat/">Project Rocketseat</a></p>
+<p align="center" width="45px" style="padding-right: 5px;"><a href="https://witordev.github.io/Todo-App/">ToDo App</a></p>
+<a href="https://witordev.github.io/Todo-App/"><img width="225px" src="project-agrinho-scs.png" /></a>
+
+<p align="center" width="45px" style="padding-right: 5px;"><a href="https://witordev.github.io/Curso---Rocketseat/">Rocketseat Profile Page</a></p>
 <a href="https://witordev.github.io/Curso---Rocketseat/"><img width="225px" src="project-rocketseat-scs.png" /></a>
 
-<p align="center" width="45px" style="padding-right: 5px;"><a href="https://witordev.github.io/Escolhas/">Project   Escolhas</a></p>
+<p align="center" width="45px" style="padding-right: 5px;"><a href="https://witordev.github.io/Escolhas/">Brazil`s choices for the future</a></p>
 <a href="https://witordev.github.io/Escolhas/"><img width="225px" src="project-escolhas-scs.png" /></a>
 
 </ul>
