@@ -20,7 +20,6 @@ Now it's not only a habit, but also my mission, to code every idea I have and ga
 <img align="center" width="45px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="center" width="45px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="center" width="45px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="center" width="45px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <br>
 <br>
 
