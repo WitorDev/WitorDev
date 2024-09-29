@@ -30,7 +30,7 @@ Now it's not only a habit, but also my mission, to code every idea I have and ga
 ## Some of my Projects:
 
 <p align="center" width="45px" style="padding-right: 5px;"><a href="https://witordev.github.io/Projeto-Agrinho/">3D Demo</a></p>
-<a href="[https://witordev.github.io/Projeto-Agrinho/](https://reactthreefiberdemo.netlify.app/)"><img width="225px" src="project-agrinho-scs.png" /></a>
+<a href="[https://reactthreefiberdemo.netlify.app/]"><img width="225px" src="project-agrinho-scs.png" /></a>
 
 <p align="center" width="45px" style="padding-right: 5px;"><a href="https://witordev.github.io/Todo-App/">To-Do WebApp</a></p>
 <a href="https://witordev.github.io/react-todo-app/"><img width="225px" src="https://github.com/user-attachments/assets/a025bcbd-0129-478d-8110-e4e14b047df2" /></a>
