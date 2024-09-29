@@ -29,17 +29,17 @@ Now it's not only a habit, but also my mission, to code every idea I have and ga
   
 ## Some of my Projects:
 
-<p align="center" width="45px" style="padding-right: 5px;"><a href="https://witordev.github.io/Projeto-Agrinho/">3D Demo</a></p>
-<a href="[https://reactthreefiberdemo.netlify.app/]"><img width="225px" src="project-agrinho-scs.png" /></a>
+<a href="https://reactthreefiberdemo.netlify.app/"><img width="225px" src="https://github.com/user-attachments/assets/12ebca11-cd56-40f4-9885-5111ed8747c4" /> </a>
+<p align="center" width="45px" style="padding-right: 5px;"><a href="https://reactthreefiberdemo.netlify.app/">3D Demo</a></p>
 
-<p align="center" width="45px" style="padding-right: 5px;"><a href="https://witordev.github.io/Todo-App/">To-Do WebApp</a></p>
 <a href="https://witordev.github.io/react-todo-app/"><img width="225px" src="https://github.com/user-attachments/assets/a025bcbd-0129-478d-8110-e4e14b047df2" /></a>
+<p align="center" width="45px" style="padding-right: 5px;"><a href="https://witordev.github.io/Todo-App/">To-Do WebApp</a></p>
 
-<p align="center" width="45px" style="padding-right: 5px;"><a href="https://witordev.github.io/Projeto-Agrinho/">Project Agrinho</a></p>
 <a href="https://witordev.github.io/Projeto-Agrinho/"><img width="225px" src="project-agrinho-scs.png" /></a>
+<p align="center" width="45px" style="padding-right: 5px;"><a href="https://witordev.github.io/Projeto-Agrinho/">Project Agrinho</a></p>
 
-<p align="center" width="45px" style="padding-right: 5px;"><a href="https://witordev.github.io/Escolhas/">Brazil's choices for the future</a></p>
 <a href="https://witordev.github.io/Escolhas/"><img width="225px" src="project-escolhas-scs.png" /></a>
+<p align="center" width="45px" style="padding-right: 5px;"><a href="https://witordev.github.io/Escolhas/">Brazil's choices for the future</a></p>
 
 </ul>
 
