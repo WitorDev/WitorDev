@@ -2,7 +2,7 @@
   
   # Witor Tenã
 
-**`💻 Front-End Developer`**
+**`💻 Full Stack Developer`**
 
 I'm a Brazilian web developer, I was introduced to coding when I was young, when I had the opportunity to try Python for the first time, I loved seeing my first "Hello World!" in the console and since then I can't stop learning.
 Now it's not only a habit, but also my mission, to code and gain as much knowledge as I can from this ever-growing World Wide Web...
