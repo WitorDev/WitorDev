@@ -9,9 +9,9 @@ Daily Linux user with a strong interest in how things work under the hood.
 ## About Me
 
 * 🎓 Computer Science student at UniFil
-  * https://github.com/witortenadev
+  * University Github: https://github.com/witortenadev
 * 🔁 Constantly improving fundamentals and tooling
-
+  * Personal website https://witortena.netlify.app/
 ## Current Focus
 
 * Writing cleaner and more scalable backend architectures
