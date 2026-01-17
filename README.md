@@ -1,20 +1,27 @@
-<div align="center">
-  
-  # Witor Tenã
+# Witor Tenã
 
-**`💻 Full-Stack Developer`**
+**`🖥 Backend Developer`** **`📖 Computer Science Student`**
 
-I'm a Brazilian web developer, I was introduced to coding when I was young, when I had the opportunity to try Python for the first time, I loved seeing my first "Hello World!" in the console and since then I can't stop learning.
-Now it's not only a habit, but also my mission, to code and gain as much knowledge as I can from this ever-growing World Wide Web...
+I'm Witor Tenã, a Backend developer interested in Web Development.
 
-</div>
+Daily Linux user with a strong interest in how things work under the hood.
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNpeWJzNGVwd245dXk5cnJ2cXFpNzF4MWZibGRiNTJhcHN2MzJucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.webp" width="1200">
+## About Me
 
-<div align="center">
+* 🎓 Computer Science student at UniFil
+  * https://github.com/witortenadev
+* 🔁 Constantly improving fundamentals and tooling
 
-## Get in touch
-<p width="45px" style="padding-right: 5px;">✉ Email: <a href="mailto:witortenadev@gmail.com">witortenadev@gmail.com</a></p>
-<p width="45px" style="padding-right: 5px;">📞 Phone | Whatsapp: +55 43 98413-8592</p>
+## Current Focus
 
-</div>
+* Writing cleaner and more scalable backend architectures
+* Mastering SQL & NoSQL database design
+* Using Docker for local development and deployment
+* Building real-world projects to solidify backend concepts using Java
+
+## Interests
+
+* Backend Engineering
+* Web Architecture
+* Linux & Developer Tooling
+* Performance, Security & Clean Code
